@@ -40,6 +40,8 @@ Welcome to the Calculator Project! 🎉 This snazzy calculator is built using HT
 ![Screenshot 2023-08-19 182734](https://github.com/Monishgithub123/CALCULATOR/assets/136221563/6b8746a6-fb82-4e78-8b81-471402c7423c)
 
 
+## Hosted link
 
+https://monishgithub123.github.io/CALCULATOR/
 
 
